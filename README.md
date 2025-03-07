@@ -13,16 +13,16 @@ A API permite realizar operações **CRUD** (Create, Read, Update, Delete) para 
 ---
 
 ## 📌 Como Executar o Projeto
-```sh
+
 
 ### 1️⃣ Clonar o repositório  
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2️⃣ Instalar as dependências
+### 2️⃣ Instalar as dependências
 npm install
 
-3️⃣ Executar o servidor
+### 3️⃣ Executar o servidor
 node index.js
 
 📌 Rotas da API

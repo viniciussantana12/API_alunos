@@ -66,9 +66,13 @@ PUT /alunos/:id
 🔹 Body (JSON):
 
 {
+
   "id": 1,
+  
   "nome": "João Souza",
+  
   "idade": 21
+  
 }
 
 🔹 Remover um aluno

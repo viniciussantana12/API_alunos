@@ -48,9 +48,13 @@ POST /alunos
 🔹 Body (JSON):
 
 {
+
   "id": 1,
+  
   "nome": "João Silva",
+  
   "idade": 20
+  
 }
 
 🔹 Atualizar um aluno
